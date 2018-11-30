@@ -6,7 +6,7 @@ while x < 3:
 print("Password Checker Program")
 
 correct_password = "python123"
-name = input("Enter your name: ")
+name = input("Enter your first name: ")
 lastName = input("Enter your last name: ")
 password = input("Enter password: ")
 
